@@ -52,6 +52,8 @@
                 <button class="w-100 btn btn-lg btn-primary" type="submit">register</button>      
 
             </form>
+
+            
             <small>all ready registered? <a href="/login">login now!</a></small>
         </main>   
     </div>
